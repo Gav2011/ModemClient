@@ -4,5 +4,5 @@
   </p>
 </div>
 
-[Download Injector](https://gavinmontrose300.wixsite.com/modemclient)  
+[Download](https://gavinmontrose300.wixsite.com/modemclient)  
 Modem is a minecraft bedrock utility mod - We do not take responsibility if you get banned at your own risk
