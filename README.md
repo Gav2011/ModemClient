@@ -4,6 +4,6 @@
   </p>
 </div>
 
-[Download](https://github.com/Gav2011/ModemClient/releases/latest/download/ModemInjector.exe)  
+[Download](https://github.com/Gav2011/ModemClient/releases/latest/download/ModemInjector.exe)  [Discord](https://discord.gg/5stcRuJtYC)  
 Modem is a minecraft bedrock utility mod - We do not take responsibility if you get banned at your own risk  
 We only have a discord sever and this github page Join discord [here](https://discord.gg/5stcRuJtYC)
