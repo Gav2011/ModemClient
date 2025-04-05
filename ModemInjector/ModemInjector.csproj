@@ -120,7 +120,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="ModemBanner.png" />
-    <Resource Include="ModemLogo.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="pic.png" />

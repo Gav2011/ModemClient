@@ -75,8 +75,6 @@
 
         <Image Source="ModemBanner.png" Margin="106,35,106,178" IsHitTestVisible="False" />
 
-        <Image Source="ModemLogo.png" Margin="-80,0,376,256" IsHitTestVisible="False" />
-
         <Label
             x:Name="InjectButton"
             Content="Inject"
