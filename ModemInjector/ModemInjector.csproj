@@ -123,15 +123,6 @@
     <Resource Include="ModemLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="pic1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="pic2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="pic3.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="pic.png" />
   </ItemGroup>
   <ItemGroup>
