@@ -4,7 +4,7 @@
   </p>
 </div>
 
-[Download](DownloadModemInject), [Discord](https://discord.gg/5stcRuJtYC)  
+[Download](https://discord.gg/5stcRuJtYC)    
 Modem is a minecraft bedrock utility mod - We do not take responsibility if you get banned at your own risk  
 We only have a discord sever and this github page Join discord [here](https://discord.gg/5stcRuJtYC)  
 Press Tab to open ClickGUI
