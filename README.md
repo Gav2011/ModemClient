@@ -1,6 +1,6 @@
 </div align="center">
   <p>
-    <a href="DownloadModemInject"><img src="https://raw.githubusercontent.com/Gav2011/modeminc.com-resource/refs/heads/main/ModemBanner.png" alt="Download Injector" /></a>
+    <a href="https://modeminc.com/modemclient"><img src="https://raw.githubusercontent.com/Gav2011/modeminc.com-resource/refs/heads/main/ModemBanner.png" alt="Download Injector" /></a>
   </p>
 </div>
 
